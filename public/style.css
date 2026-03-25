@@ -198,3 +198,43 @@ aside li {
     padding: 10px 0;
     cursor: pointer;
 }
+
+footer {
+    margin-top: auto;
+    background-color: #4b4343;
+    padding: 20px;
+    font-size: 12px;
+    text-align: center;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+}
+
+.newsletter-form {
+    display: flex;
+    gap: 5px;
+    margin-top: 5px;
+}
+
+.newsletter-form input {
+    padding: 8px 12px;
+    border-radius: 5px;
+    border: none;
+    font-size: 12px;
+    outline: none;
+    width: 180px;
+}
+
+.newsletter-form button {
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 8px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 10px;
+    text-transform: uppercase;
+}
