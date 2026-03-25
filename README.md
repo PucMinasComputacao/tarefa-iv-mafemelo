@@ -25,7 +25,7 @@
 ## Print Homepage
 
 
-![Print Homepage](./public/homepage.png)
+![Print Homepage](./public/homepage1.png)
 
-
+![Print Homepage](./public/homepage2.png)
 ---
